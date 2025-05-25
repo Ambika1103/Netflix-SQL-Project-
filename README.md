@@ -8,6 +8,7 @@ A data exploration project using SQL to analyze the Netflix dataset. This projec
 This project uses SQL to query and analyze a dataset containing information about Netflix titles including movies and TV shows. The main objective is to draw meaningful conclusions from the data using SQL techniques such as filtering, grouping, sorting, and joining.
 
 🛠️ Tech Stack
+
 Query Tool: pgAdmin 
 Dataset Source: Netflix Dataset on Kaggle
 
@@ -15,15 +16,15 @@ Dataset Source: Netflix Dataset on Kaggle
 
 Here are a few highlights from the analysis:
 
-Count of Movies vs. TV Shows
+1.Count of Movies vs. TV Shows
 
-Top 10 countries with the most content
+2.Top 10 countries with the most content
 
-Most common genres on Netflix
+3.Most common genres on Netflix
 
-Year-wise trend of new content added
+4.Year-wise trend of new content added
 
-Filtering content by director or cast
+5.Filtering content by director or cast
 
-Duration analysis for movies and TV shows
+6.Duration analysis for movies and TV shows
 
